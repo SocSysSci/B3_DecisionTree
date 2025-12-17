@@ -1,0 +1,15 @@
+﻿weather,temperature,humidity,wind,play_golf
+sunny,29,85,weak,no
+sunny,27,90,strong,no
+cloudy,28,78,weak,yes
+rainy,21,96,weak,yes
+rainy,20,80,weak,yes
+rainy,18,70,strong,no
+cloudy,18,65,strong,yes
+sunny,22,95,weak,no
+sunny,21,70,weak,yes
+rainy,24,80,weak,yes
+sunny,24,70,strong,yes
+cloudy,22,90,strong,yes
+cloudy,27,75,weak,yes
+rainy,22,80,strong,no
